@@ -1,4 +1,4 @@
 # A repository for my gists.
 The repository of my gists.
 
-[Avaible there (click me)](https://gist.github.com/alekami649)
+:point_right: [Click me](https://gist.github.com/alekami649)
